@@ -1,4 +1,4 @@
-bottle==0.12.21
+bottle==0.12.25
 Jinja2==3.1.2
 python-dotenv==0.20.0
 pytz==2022.1
