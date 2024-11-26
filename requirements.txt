@@ -1,6 +1,6 @@
 bottle==0.12.21
 Jinja2==3.1.2
 python-dotenv==0.20.0
-pytz==2022.1
+pytz==2024.1
 demjson3==3.0.5
 uWSGI==2.0.20
